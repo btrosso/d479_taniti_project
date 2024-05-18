@@ -57,6 +57,39 @@ body {
   align-items: center;
 }
 
+/* Container for the image and overlay text */
+.image-container {
+    position: relative;
+    display: inline-block;
+}
+
+/* Style for the large image */
+.large-image {
+    display: block;
+    width: 100%; /* Adjust to desired width */
+    height: auto;
+}
+
+/* Style for the overlay title */
+.overlay-title {
+    position: absolute;
+    top: 50%; /* Center vertically */
+    left: 50%; /* Center horizontally */
+    transform: translate(-50%, -50%); /* Adjust position to center */
+    color: white; /* Text color */
+    background-color: rgba(0, 0, 0, 0.5); /* Semi-transparent background */
+    padding: 10px 20px;
+    font-size: 50px; /* Adjust font size */
+    font-weight: bold;
+    text-align: center;
+    border-radius: 5px; /* Optional: rounded corners */
+}
+
+.info-paragraph {
+  font-size: x-large;
+  text-indent: 50px;
+}
+
 h3 {
   padding-right: 50px;
 }
@@ -175,6 +208,10 @@ h3 {
   width: 400px;
 }
 
+li {
+  font-size: larger;
+}
+
 /* --- FOOTER SECTION --- */
 footer {
   background-color: #a1eebd;
@@ -266,3 +303,63 @@ textarea {
     min-width: 600px;
     margin-bottom: 20px;
 }
+
+/* Button Styles */
+.btn {
+    display: inline-block;
+    padding: 10px 20px;
+    margin: 10px;
+    font-size: 16px;
+    font-weight: bold;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    transition: background-color 0.3s ease;
+}
+
+.book-now {
+    background-color: #7BD3EA; /* blue */
+}
+
+.book-now:hover {
+    background-color: #63AACD; /* slightly darker blue */
+}
+
+.reserve-spot {
+    background-color: #A1EEBD; /* green */
+}
+
+.reserve-spot:hover {
+    background-color: #81C29E; /* slightly darker green */
+}
+
+.reserve-table {
+    background-color: #FFA500; /* orange */
+}
+
+.reserve-table:hover {
+    background-color: #E59400; /* slightly darker orange */
+}
+
+/* Additional Button Styles */
+.btn-yellow {
+    background-color: #F6F7C4; /* yellow */
+    color: #333; /* dark text color for contrast */
+}
+
+.btn-yellow:hover {
+    background-color: #E0E3A6; /* slightly darker yellow */
+}
+
+.btn-pink {
+    background-color: #F6D6D6; /* pink */
+    color: #333; /* dark text color for contrast */
+}
+
+.btn-pink:hover {
+    background-color: #E0B4B4; /* slightly darker pink */
+}
+
