@@ -1,0 +1,8 @@
+Pages:
+Landing/Home
+About the island
+lodging
+entertainment
+restaurants
+transportation
+review

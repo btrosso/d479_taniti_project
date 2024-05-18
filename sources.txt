@@ -1,0 +1,41 @@
+joyful_beach.jpg - https://stockcake.com/i/joyful-beach-drumming_707047_985746
+tropical_beach_1.jpg - https://stockcake.com/i/tropical-beach-paradise_103964_2548
+tropical_house.jpg - https://stockcake.com/i/tropical-beach-house_708621_849122
+tropical_dinner.jpg - https://stockcake.com/i/joyful-dinner-date_608926_814144
+tropical_transport.jpg - https://stockcake.com/i/motorcycle-coastal-ride_570495_465846
+tropical_sunlight.jpg - https://stockcake.com/i/tropical-sunlight-burst_716429_112782
+tropical_coconut.jpg - https://stockcake.com/i/tropical-coconut-scene_696183_1019461
+tropical_garden.jpg - https://stockcake.com/i/tropical-garden-path_698567_849343
+tropical_parrot - https://stockcake.com/i/parrot-tropical-perch_424060_62562
+tropical_hotel_1.jpg - https://stockcake.com/i/beachside-hotel-room_856256_1128825
+jungle_resort.jpg - https://stockcake.com/i/jungle-resort-escape_488266_976787
+tropical_hostel.jpg - https://stockcake.com/i/joyful-traveler-posing_900461_1129006
+tropical_beach_party_2.jpg - https://stockcake.com/i/beach-party-fun_131828_15359
+tropical_snorkeling.jpg - https://stockcake.com/i/underwater-snorkeling-selfie_820267_870323
+tropical_charter_fishing.jpg - https://stockcake.com/i/sunset-fishing-success_893867_520944
+tropical_volcano.jpg - https://stockcake.com/i/volcano-adventure-hike_746887_1129901
+tropical_forest.jpg - https://stockcake.com/i/toucan-in-rainforest_944016_653924
+tropical_beach_2.jpg - https://stockcake.com/i/tropical-beach-sunset_819167_302712
+tropical_restaurant_1 - https://stockcake.com/i/bustling-nightlife-scene_242570_46758
+tropical_restaurant_2 - https://stockcake.com/i/savory-dumplings-delight_734410_930446
+tropical_restaurant_3 - https://stockcake.com/i/delicious-comfort-food_72492_3906
+tropical_restaurant_4 - https://stockcake.com/i/savory-fish-meal_310545_322717
+tropical_restaurant_5 - https://stockcake.com/i/sushi-rice-bowl_130003_14927
+tropical_restaurant_6 - https://stockcake.com/i/sushi-variety-platter_262136_51703
+island_plane.jpg - https://stockcake.com/i/island-plane-landing_489593_170727
+tropical_taxi.jpg - https://stockcake.com/i/tropical-taxi-haven_298915_574087
+
+
+tropical colors:
+7BD3EA - blue
+A1EEBD - green
+F6F7C4 - yellow
+F6D6D6 - pink
+
+
+
+beachside
+rainforest
+volcano
+fishing 
+snorkeling
